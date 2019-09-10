@@ -2,4 +2,5 @@
 
 *1. Git:*
     -In this repository I am goin to learn git. 
+    - i learn how to create a branch.
 
