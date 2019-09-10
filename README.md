@@ -2,5 +2,5 @@
 
 *1. Git:*
     -In this repository I am goin to learn git. 
-    - Lerned how to update my master brach
+    - i learn how to create a branch.
 
