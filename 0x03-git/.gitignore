@@ -1,1 +1,8 @@
 XDG_CONFIG_HOME/git/ignore, $GIT_DIR/info/exclude, .gitignore
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
